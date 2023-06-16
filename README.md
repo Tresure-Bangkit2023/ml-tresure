@@ -14,10 +14,10 @@ The GMF network follows a simpler architecture compared to other models. It adop
 
 ## Features
 
-- Recommendation models: This repository includes a machine learning model, collaborative filtering, implemented for the purpose of generating travel destination recommendations.
 - Data preprocessing: Scripts and tools for cleaning and preprocessing the travel and user data before feeding it into the model.
+- Recommendation models: This repository includes a machine learning model, collaborative filtering, implemented for the purpose of generating travel destination recommendations.
+- Learning Rate Scheduler: Method for finding the best learning rate on the optimizer used.
 - Evaluation and metrics: Tools for evaluating the performance of the recommendation models using appropriate metrics.
-- Notebooks: Jupyter notebooks demonstrating the end-to-end process of data preparation, model training, and recommendation generation.
 
 ## Requirements
 
